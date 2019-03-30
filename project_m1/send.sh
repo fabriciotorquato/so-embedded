@@ -1,1 +1,1 @@
-scp -rp /home/facens/Documentos/project_m1/ linaro@10.42.0.228:/home/linaro/Documents
+scp -rp /home/jarvis/Documentos/so-embedded-m1/project_m1/ linaro@10.42.0.118:/home/linaro/Documents
